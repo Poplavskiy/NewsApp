@@ -1,0 +1,6 @@
+framework module Pods_RSSFromScratch {
+  umbrella header "Pods-RSSFromScratch-umbrella.h"
+
+  export *
+  module * { export * }
+}
